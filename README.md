@@ -3,7 +3,7 @@
 > 这是一个CANopen协议通信例程，硬件平台为STM32F103单片机，实现了简单的PDO和SDO通信，CANopen的实现是移植的开源协议栈CanFestival
 
 ## CanFestival
-CanFestival（官网链接https://canfestival.org/）, 网上资料很多，入门也很简单，官方的Manul写的很简洁易懂。用CanFestival开源协议栈之前主要是移植协议栈到自己的平台上，支持的平台很多，Linux和类linux，Windows，32位ARM单片机...都可以移植使用，本工程是基于STM32F103平台的应用
+CanFestival（官网链接https://canfestival.org/）, 网上资料很多，入门也很简单，官方的Manul写的很简洁易懂。用CanFestival开源协议栈之前主要是移植协议栈到自己的平台上，支持的平台很多，Linux和类Unix，Windows，32位ARM单片机...都可以移植使用，本工程是基于STM32F103平台的应用
 
 ![markdown](https://canfestival.org/home_logo.png "canfestival")
 
